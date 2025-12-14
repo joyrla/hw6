@@ -58,7 +58,7 @@ MAE Improvement: 6.9%
 submission/
 ├── README.md
 ├── run_pipeline.py
-├── report.tex
+├── report_2022195142.pdf
 ├── notebooks/pipeline_demo.ipynb
 └── figures/
 ```
